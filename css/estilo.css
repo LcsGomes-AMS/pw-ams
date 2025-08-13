@@ -1,0 +1,14 @@
+div{
+    border: 1px solid;
+    background-color: white;
+}
+h1{
+    border: 1px solid;
+}
+#container{
+    background-color: fuchsia;
+    padding: 50px 25px;
+    display: flex;
+    justify-content: space-around;
+    
+}

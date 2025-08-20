@@ -1,0 +1,27 @@
+#pai{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+    font-size: 55px;
+   
+}
+td{
+    border: 2px solid;
+    background-color: white;
+    text-align: center;
+}
+body{
+    background-color: red;
+}
+td:hover{
+    background-color: deeppink;
+}
+table{
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+}
+.classe{
+    border: none;
+}
